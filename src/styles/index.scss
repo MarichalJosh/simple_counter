@@ -11,3 +11,17 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+div{
+   background: black;   
+   margin: auto;
+   text-align: center;
+   color: white;
+   font-size: 90px; 
+   padding: 0;   
+}
+div.contador1{    
+    border: 2px solid gray;
+    border-radius: 25px;
+    width: 220px;
+    height: 155px;
+}
